@@ -1,6 +1,7 @@
-# TurtleTracks - A Collection of Turtle Graphics Programs
+# Turtle Tracks - A Collection of Turtle Graphics Programs
 
 Welcome to Turtle Tracks, a collection of fun and creative Turtle Graphics programs created using Python's Turtle module.
+
 
 ## Introduction
 
@@ -10,3 +11,7 @@ Turtle Graphics is a beginner-friendly way to learn programming and create fasci
 
 1. **Prerequisites**: You need Python installed on your machine to run these programs. If you don't have it, you can download and install Python from [python.org](https://www.python.org/downloads/).
 
+2. **Clone the Repository**: Use the following command to clone the repository to your local machine.
+
+   ```bash
+   https://github.com/DiwakarAllu/TurtleTracks.git
