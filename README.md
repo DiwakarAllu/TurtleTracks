@@ -7,7 +7,7 @@ Welcome to Turtle Tracks, a collection of fun and creative Turtle Graphics progr
 
 Turtle Graphics is a beginner-friendly way to learn programming and create fascinating visual patterns and designs. This repository contains a variety of Turtle Graphics programs that you can run and experiment with.
 
-## Getting Started
+## Getting Started 
 
 1. **Prerequisites**: You need Python installed on your machine to run these programs. If you don't have it, you can download and install Python from [python.org](https://www.python.org/downloads/).
 
